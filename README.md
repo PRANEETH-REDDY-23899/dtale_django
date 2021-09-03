@@ -16,7 +16,7 @@ django setup
   pip install django
   django-admin startproject project_name
   django-admin startapp app_name
-  pip intall -r requirements.txt
+  pip install -r requirements.txt
   python manage.py makemigrations
   python manage.py migrate
 ```
